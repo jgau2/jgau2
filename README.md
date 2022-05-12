@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in gaining python experience
+- 👀 I’m interested in python and learning as much as I can with it
 - 📫 How to reach me - email: listen-tuneups-0o@icloud.com
 
 <!---
